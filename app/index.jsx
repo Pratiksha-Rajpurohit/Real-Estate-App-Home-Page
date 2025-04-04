@@ -18,7 +18,7 @@ export default function HomeScreen() {
   return (
     <View style={styles.container}>
       {/* Title */}
-      <Text style={styles.header}>Find a Your Dream Home</Text>
+      <Text style={styles.header}>Find Your Dream Home</Text>
       
       {/* Search Bar */}
       <TextInput style={styles.searchBar} placeholder="Search properties..." />
